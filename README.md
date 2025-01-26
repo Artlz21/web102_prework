@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/bd09f3183ba0477e82ebedf55d950b6f?sid=d2e7b648-b3d1-48cc-bcbb-657c5077d0fe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='web102_prework\assets\preworkApp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
