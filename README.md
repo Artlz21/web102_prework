@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/48c24c7e846f439c8336d7090c7f7f40?sid=eaf8b59f-e6e9-4b53-a33a-58c8ce1da2b9' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/bd09f3183ba0477e82ebedf55d950b6f?sid=d2e7b648-b3d1-48cc-bcbb-657c5077d0fe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
